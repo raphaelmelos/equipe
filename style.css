@@ -5,3 +5,9 @@ footer{
     gap: 100px;
     padding: 15px;
 }
+img{
+    width: 35px;
+}
+.logo{
+    width: 10%;
+}
