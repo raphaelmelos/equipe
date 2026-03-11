@@ -7,6 +7,7 @@ font-style: italic;
 .headers{
 color: blue;
 background-color: black;
+}
 footer{
     background-color: #87CEEB;
     display: flex;
