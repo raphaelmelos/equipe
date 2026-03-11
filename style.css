@@ -1,9 +1,22 @@
+
 h1 {
 background-color: crimson;
 font-style: italic;
 }
 
-div.headers{
+.headers{
 color: blue;
 background-color: black;
+footer{
+    background-color: #87CEEB;
+    display: flex;
+    justify-content: space-between;
+    gap: 100px;
+    padding: 15px;
+}
+img{
+    width: 35px;
+}
+.logo{
+    width: 10%;
 }
